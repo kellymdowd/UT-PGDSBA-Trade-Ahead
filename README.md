@@ -1,4 +1,5 @@
 # UT-PGDSBA-Trade-Ahead
+_This project was completed as part of Module 7 - Unsupervised Learning in the UT Austin Post Graduate Program in Data Science & Business Analytics._
 
 ## Problem Statement
 The stock market has consistently proven to be a good place to invest in and save for the future. There are a lot of compelling reasons to invest in stocks. It can help in fighting inflation, create wealth, and also provides some tax benefits. Good steady returns on investments over a long period of time can also grow a lot more than seems possible. Also, thanks to the power of compound interest, the earlier one starts investing, the larger the corpus one can have for retirement. Overall, investing in stocks can help meet life's financial aspirations.
